@@ -216,14 +216,14 @@ body .height30 {
     border: none;
     background-color: white;
   }
-  body .widget {
+  body .content-widget {
     margin-left: 10px;
     margin-right: 10px;
   }
   body span {
     color: grey;
   }
-  body .content-widget {
+  body .widget {
     background: white;
     min-height: 333px;
     position: relative;
@@ -237,14 +237,14 @@ body .height30 {
     border: 1px solid #e7e7e7;
     margin-bottom: 20px;
   }
-  body .content-widget h4 {
+  body .widget h4 {
     font-size: 1.071rem;
     font-weight: 600;
   }
-  body .content-widget p {
+  body .widget p {
     color: #099e44;
   }
-  body .content-widget span {
+  body .widget span {
     font-weight: bold;
     color: #099e44;
   }
@@ -692,7 +692,7 @@ body .height30 {
   body .imge {
     margin-bottom: 30px;
   }
-  body .widget {
+  body .content-widget {
     -ms-flex-preferred-size: 37%;
         flex-basis: 37%;
     display: -webkit-box;
@@ -706,10 +706,10 @@ body .height30 {
     margin-left: 15px;
     float: right;
   }
-  body .widget span {
+  body .content-widget span {
     color: grey;
   }
-  body .content-widget {
+  body .widget {
     background: white;
     min-height: 333px;
     position: relative;
@@ -723,14 +723,14 @@ body .height30 {
     padding: 1em;
     border: 1px solid #e7e7e7;
   }
-  body .content-widget h4 {
+  body .widget h4 {
     font-size: 1.071rem;
     font-weight: 600;
   }
-  body .content-widget p {
+  body .widget p {
     color: #099e44;
   }
-  body .content-widget span {
+  body .widget span {
     font-weight: bold;
     color: #099e44;
   }
